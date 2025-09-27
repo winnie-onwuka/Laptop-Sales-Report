@@ -1,4 +1,8 @@
 # Laptop-Sales-Report
+# Table of Content
+ [Project Overview](
+ Dashboard 
+ [Key Features](https://github.com/winnie-onwuka/Laptop-Sales-Report/blob/main/README.md#key-features)
 # Project Overview
 Running a laptop store without knowing which products drives more sales is wrong, so i dived into this project to uncover data backed up decisions using Power BI
 # Dashboard 
